@@ -1,7 +1,16 @@
 
+# SEASON APP
 
+This is React-Web-App will show you season according to your GeoLocation.Once you allows it's location it will let you know the season.This app works on basic logic of hemisphere, according to that it is going to predict the season,once you give permession of location it will detect your heisphere and predict the location.
+
+
+
+## LIVE-LINK
+
+https://season1app-react.netlify.app/
 
 ## DEMO(Snapshot)
+
 ![image](https://user-images.githubusercontent.com/48747218/198888149-07a75365-82b6-4c82-948b-51876de9cd93.png)
 ![image](https://user-images.githubusercontent.com/48747218/198888225-b209eb41-29a4-4f1e-8a23-2d7ef8ab61b7.png)
 
